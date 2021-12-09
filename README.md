@@ -4,7 +4,7 @@ Section 001 (Monday)
 
 Team 32
 
-Team Member: Yiyao Qu (yq2331), Ziyi Liu (3110)
+Team Member: Yiyao Qu (yq2331), Ziyi Liu (zl3110)
 
 
 We have written two separate files to analyze the 311_Service_Requests_2020 dataset. In both files, we did not analyze the full data. Instead, we choose a zip code region (10024), filtered out the data and stored it in a variable called my_zip_dt, and proceed with the following analysis. 
